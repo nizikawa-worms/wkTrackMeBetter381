@@ -1,0 +1,5 @@
+cmake-*
+.idea*
+bundle/wkTrackMeBetter381.dll
+wkTrackMeBetter381/
+build/
